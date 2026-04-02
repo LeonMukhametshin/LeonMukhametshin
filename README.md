@@ -11,10 +11,6 @@
 
 ###
 
-## 👩‍💻 Обо мне
-
-🎮 Я Unity-разработчик
-
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
@@ -56,26 +52,12 @@
 * Логику игры на основе **ECS-подхода**
 * Разделение данных и систем (data-driven дизайн)
 
----
-
-## 🚧 Сейчас работаю над
-
-* Улучшением **архитектуры игровых систем**
-* Расширением **combat-систем (абилки, эффекты, баланс)**
-* Созданием новых **проектов для портфолио**
-
----
-
-
 <div align="center">
   <a href="https://www.youtube.com/@LEM-Games-111" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://t.me/leonmukhametshin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:leonmukhametshin2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
 
