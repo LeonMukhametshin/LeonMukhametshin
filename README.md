@@ -1,34 +1,40 @@
-<br clear="both">
+<br>
 
 # 👋 Привет, я Леон
 
-
-###
-
 <p align="center">
- <img width="600" src="Assets/github-snake.svg" alt="snake"/>
+  🎮 Unity Developer (C#) • Геймплейные системы • Архитектура
 </p>
 
-###
+<br>
 
-<h3 align="left">🛠 Технологии:</h3>
+<p align="center">
+  <img width="600" src="Assets/github-snake.svg" alt="snake"/>
+</p>
 
-###
+<br><br>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".net logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+## 🛠 Технологии
+
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
 </div>
 
+<br><br>
 
-##  Проекты
+## 🎮 Проекты
+
+<br>
 
 ### ⚔️ Time-Lost Knight (Metroidvania)
 
@@ -41,29 +47,26 @@
 * Выстроил **core архитектуру проекта**
 * Работал в команде (геймдизайнер + художник)
 
+<br>
+
 ---
+
+<br>
 
 ### ❌⭕ Крестики-нолики (ECS)
 
-> Экспериментальный проект для изучения data-oriented подхода
+> Проект для изучения data-oriented подхода
 
 **Что реализовал:**
 
 * Логику игры на основе **ECS-подхода**
 * Разделение данных и систем (data-driven дизайн)
 
+<br><br>
 
 
+<br>
 
+<div align="center"> <a href="https://www.youtube.com/@LEM-Games-111" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /> </a> <a href="https://t.me/leonmukhametshin" target="_blank"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" /> </a> </div>
 
-<div align="center">
-  <a href="https://www.youtube.com/@LEM-Games-111" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/leonmukhametshin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
----
-
+<br>
