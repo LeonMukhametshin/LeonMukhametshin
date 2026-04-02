@@ -2,48 +2,31 @@
 
 # 👋 Привет, я Леон
 
-🎮 Unity Developer (C#), специализация — геймплейные системы и архитектура
-🚀 В активном поиске первой работы в геймдев-команде
 
----
+## 👩‍💻 Обо мне
 
-## 🧠 Обо мне
+🎮 Я Unity-разработчик
 
-Я Unity-разработчик, сфокусированный на **построении архитектуры и геймплейных систем**.
+<h3 align="left">🛠 Технологии:</h3>
 
-До этого пробовал разные направления в IT (C, Python, Data Science), но в итоге выбрал геймдев — как область, где можно глубже всего работать с логикой, системами и интерактивностью.
+###
 
-💡 Мои ключевые сильные стороны:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".net logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visual studio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+</div>
 
-* Проектирование **масштабируемой архитектуры**
-* Разработка **геймплейных систем (combat, AI, FSM)**
-* Написание **чистого и поддерживаемого кода**
 
----
-
-## 🛠 Стек
-
-**Основное:**
-
-* Unity (2D)
-* C#
-
-**Ключевые навыки:**
-
-* Finite State Machines (FSM)
-* Геймплейные системы
-* Combat-системы
-* AI логика поведения
-* Архитектура и паттерны проектирования
-
-**Дополнительно:**
-
-* ECS (базовый опыт)
-* Git
-
----
-
-## 🎮 Проекты
+##  Проекты
 
 ### ⚔️ Time-Lost Knight (Metroidvania)
 
@@ -85,36 +68,18 @@
 
 ---
 
-## 📫 Контакты
-
-* Telegram: @your_username
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* LinkedIn: (по желанию)
-
----
-
-## ⚡ Дополнительно
-
-Люблю разбирать сложные игровые механики и превращать их в **чистые и масштабируемые системы**.
-
-
-###
-
-<h1 align="center">Привет👋 Меня зовут Леон!</h1>
-
-###
 
 <div align="center">
   <a href="https://www.youtube.com/@LEM-Games-111" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://t.me/leonmukhametshin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:leonmukhametshin2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
+---
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
-
-###
