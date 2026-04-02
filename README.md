@@ -3,7 +3,7 @@
 # 👋 Привет, я Леон
 
 <p align="center">
-  🎮 Unity Developer (C#) • Геймплейные системы • Архитектура
+  🎮 Unity Developer (C#) 
 </p>
 
 <br>
