@@ -1,6 +1,6 @@
 <br>
 
-# 👋 Привет, я Леон
+<h1 align="center">👋 Привет, я Леон
 
 <p align="center">
   🎮 Unity Developer (C#) 
@@ -13,28 +13,6 @@
 </p>
 
 <br><br>
-
-## 🛠 Технологии
-
-<br>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="45" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" />
-</div>
-
-<br><br>
-
-## 🎮 Проекты
-
-<br>
 
 ### ⚔️ Time-Lost Knight (Metroidvania)
 
@@ -63,7 +41,21 @@
 * Разделение данных и систем (data-driven дизайн)
 
 <br><br>
+<br>
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+</div>
+
+<br>
 
 <br>
 
