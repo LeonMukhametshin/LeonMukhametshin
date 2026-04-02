@@ -1,10 +1,6 @@
 <br>
 
-<h1 align="center">👋 Привет, я Леон
-
-<p align="center">
-  🎮 Unity Developer (C#) 
-</p>
+<h1 align="center">👋 Привет, я Леон  🎮 Unity Developer 
 
 <br>
 
@@ -12,7 +8,6 @@
   <img width="600" src="Assets/github-snake.svg" alt="snake"/>
 </p>
 
-<br><br>
 
 ### ⚔️ Time-Lost Knight (Metroidvania)
 
